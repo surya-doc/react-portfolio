@@ -8,7 +8,6 @@ import { faDesktop } from '@fortawesome/free-solid-svg-icons';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
 import { faCubes } from '@fortawesome/free-solid-svg-icons';
 import { faReply } from '@fortawesome/free-solid-svg-icons';
-import { faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons';
 import Typed from 'react-typed';
 import Particles from 'react-particles-js';
 import Profile from '../components/profile.jpg';

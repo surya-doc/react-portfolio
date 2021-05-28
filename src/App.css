@@ -423,3 +423,15 @@ body{
 .contact{
   padding: 20px;
 }
+
+.contact-icon{
+  margin: 4px 20px;
+  cursor: pointer;
+  transition: transform 1s;
+  color: #FFF;
+}
+
+.contact-icon:hover{
+  transform: scale(1.1);
+  color: #7dcff5;
+}
